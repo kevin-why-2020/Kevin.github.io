@@ -21,6 +21,7 @@ TBD
   
 Skills
 ======
-* Python, Pytorch
-* CET4, CET6, TOEFL
+* C++, Python, Pytorch
+* CET4, CET6, TOEFL, GRE
+* QQ Speed Car--Speed Summit Top Racer
 

@@ -3,7 +3,7 @@ title: "Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Surviv
 category: manuscripts
 permalink: /publication/2025-05-29-paper-DeReF
 excerpt: 'This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis. 
-![Editing a markdown file for a talk](/images/why.png)'
+![Model Framework Figure:](../images/why.png)'
 date: 2024-11-15
 paperurl: 'https://kevin-why-2020/Kevin.github.io/files/TMI_DeReF.pdf'
 citation: 'Huayi Wang, et al. (2025). &quot;Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction.&quot; <i>Under Review IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）, IF=8.9</i>.'

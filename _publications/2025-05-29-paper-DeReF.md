@@ -2,7 +2,7 @@
 title: "Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction"
 collection: arxiv preprint
 category: manuscripts
-permalink: /publication/2025-05-29-paper-DeReF.md
+permalink: /publication/2025-05-29-paper-DeReF
 excerpt: 'This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis.'
 date: 2024-11-15
 venue: 'IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）'

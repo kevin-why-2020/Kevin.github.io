@@ -3,7 +3,7 @@ title: "基于传统方法与深度学习方法的图片相似度算法比较"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-10-PhotoCompare
-excerpt: '这篇论文主要做药品图片相似度算法比较研究.'
+excerpt: '这篇论文主要做药品图片相似度算法比较研究.![image](../images/paper/chinese.png)'
 paperurl: '../files/Chinese.pdf'
 date: 2023-09-10
 venue: '计算机系统应用'

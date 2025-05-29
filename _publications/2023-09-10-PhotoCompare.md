@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-09-10-PhotoCompare
 excerpt: '这篇论文主要做药品图片相似度算法比较研究.'
+paperurl: '../files/Chinese.pdf'
 date: 2023-09-10
 venue: '计算机系统应用'
 citation: '王，等人. (2023). &quot;基于传统方法与深度学习方法的图片相似度算法比较.&quot; <i>计算机系统应用（CCF-C）</i>. 33(02), 253-264.'

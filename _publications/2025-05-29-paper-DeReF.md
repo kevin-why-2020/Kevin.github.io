@@ -7,7 +7,7 @@ excerpt: 'This paper proposed a Random Feature Reorganization and a Regional Cro
 date: 2024-11-15
 venue: 'IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://kevin-why-2020/Kevin.github.io/files/TMI_DeReF.pdf'
+paperurl: 'https://github.com/kevin-why-2020/Kevin.github.io/files/TMI_DeReF.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Huayi Wang, et al. (2025). &quot;Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction.&quot; <i>TMI, IF=8.9</i>.'
 ---

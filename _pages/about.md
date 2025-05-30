@@ -11,7 +11,7 @@ I'm a first year Phd student from [College of Computer Science and Technology](h
 
 I am very fortunate to be advised by [Prof. Wu](https://person.zju.edu.cn/0004274/569104.html) of Real Doctor Lab.
 
-You can find my CV here: [CV](./cv.md).
+You can find my CV here: [CV](https://kevin-why-2020.github.io/Kevin.github.io/cv/).
 
 [Email](huayiwang@zju.edu.cn) / [Github](https://github.com/kevin-why-2020) 
 ————————————————

@@ -17,11 +17,13 @@ Education
 
 Work experience
 ======
-TBD
+Looking forward to it soon!
   
 Skills
 ======
 * C++, Python, Pytorch
 * CET4, CET6, TOEFL, GRE
-* QQ Speed Car--Speed Summit Top Racer
+* Sports including swimming, running, and badminton​
+* QQ Speed Car--Speed Summit Top 100 Racer--7 years of extensive gaming experience
+* CrossFire--14 years veteran gamer
 

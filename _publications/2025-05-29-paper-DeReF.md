@@ -6,7 +6,7 @@ excerpt: 'This paper proposed a Random Feature Reorganization and a Regional Cro
 ![Model Framework Figure](../images/DeReF.png)'
 date: 2024-11-15
 paperurl: '../files/TMI_DeReF.pdf'
-citation: 'Huayi Wang, et al. (2025). &quot;Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction.&quot; <i>Under Review IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）, IF=9.8</i>.'
+citation: 'Huayi Wang, et al. (2025). &quot;Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction.&quot; <i>Almost accept IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）, IF=9.8</i>.'
 ---
 
 ABSTRACT

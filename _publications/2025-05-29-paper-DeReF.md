@@ -3,20 +3,24 @@ title: "Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Surviv
 category: manuscripts
 permalink: /publication/2025-05-29-paper-DeReF
 excerpt: '
-2025-08-27 ⭐: Initial release of DeReF model on arxiv preprint
+2025-08-27 ⭐: Initial release of DeReF model on arxiv preprint <br>
 2026-02-23 ⭐: Congratulations! 🎉🎊🎉 DeReF has been accepted by TMI 2026 (IF=9.8) 🎯 <br>
-This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis. 
+This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis.
+<a href="https://ieeexplore.ieee.org/document/11417210" target="blank">[TMI Early Access]</a>  
 ![Model Framework Figure](../images/DeReF.png)'
 date: 2026-02-23
 paperurl: '../files/TMI_DeReF.pdf'
-citation: '@ARTICLE{DeReF,
-  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},
-  journal={IEEE Transactions on Medical Imaging}, 
-  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, 
-  year={2026},
-  keywords={Cancer survival prediction;Modal decoupling;Multimodal fusion;Mixture-of-Experts},
-  doi={10.1109/TMI.2026.3668773},
-  ISSN={1558-254X}}'
+citation: '
+  ```bash
+  @ARTICLE{11417210,
+    author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},
+    journal={IEEE Transactions on Medical Imaging}, 
+    title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, 
+    year={2026},
+    keywords={Cancer survival prediction;Modal decoupling;Multimodal fusion;Mixture-of-Experts},
+    doi={10.1109/TMI.2026.3668773}}
+  ```
+'
 ---
 
 ABSTRACT

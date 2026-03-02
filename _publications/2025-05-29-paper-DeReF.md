@@ -2,7 +2,10 @@
 title: "Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction"
 category: manuscripts
 permalink: /publication/2025-05-29-paper-DeReF
-excerpt: 'This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis. 
+excerpt: '
+- [x] 2025-08-27 ⭐: Initial release of DeReF model on arxiv preprint
+- [x] 2026-02-23 ⭐: Congratulations! 🎉🎊🎉 DeReF has been accepted by TMI 2026 🎯
+This paper proposed a Random Feature Reorganization and a Regional Cross-Attention Algorithms in Multimodal Cancer Survival Analysis. 
 ![Model Framework Figure](../images/DeReF.png)'
 date: 2026-02-23
 paperurl: '../files/TMI_DeReF.pdf'

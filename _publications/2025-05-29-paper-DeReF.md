@@ -14,7 +14,6 @@ citation: '@ARTICLE{DeReF,
   keywords={Cancer survival prediction;Modal decoupling;Multimodal fusion;Mixture-of-Experts},
   doi={10.1109/TMI.2026.3668773},
   ISSN={1558-254X}}'
-  <i>Accepted by IEEE TRANSACTIONS ON MEDICAL IMAGING（TMI）, IF=9.8</i>.
 ---
 
 ABSTRACT

@@ -9,8 +9,7 @@ This paper proposed a Random Feature Reorganization and a Regional Cross-Attenti
 <a href="https://ieeexplore.ieee.org/document/11417210" target="blank">[TMI Early Access]</a>  
 ![Model Framework Figure](../images/DeReF.png)'
 date: 2026-02-23
-paperurl: '../files/TMI_DeReF.pdf'
-citation: '
+citation: '<br>
   @ARTICLE{11417210, <br>
     author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},<br>
     journal={IEEE Transactions on Medical Imaging}, <br>

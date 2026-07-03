@@ -10,13 +10,15 @@ This paper proposed a Random Feature Reorganization and a Regional Cross-Attenti
 ![Model Framework Figure](../images/DeReF.png)'
 date: 2026-02-23
 citation: '<br>
-  @ARTICLE{11417210, <br>
-    author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},<br>
-    journal={IEEE Transactions on Medical Imaging}, <br>
-    title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, <br>
-    year={2026},<br>
-    keywords={Cancer survival prediction;Modal decoupling;Multimodal fusion;Mixture-of-Experts},<br>
-    doi={10.1109/TMI.2026.3668773}}
+  @ARTICLE{11417210,
+  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, 
+  year={2026},
+  volume={45},
+  number={6},
+  pages={3124-3136},
+  doi={10.1109/TMI.2026.3668773}}
 '
 ---
 
